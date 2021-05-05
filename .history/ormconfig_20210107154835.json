@@ -1,0 +1,24 @@
+{
+   "type": "mysql",
+   "host": "159.65.148.39",
+   "port": 9007,
+   "username": "root",
+   "password": "xts@123",
+   "database": "backupDEC10_1",
+   "synchronize": true,
+   "logging": false,
+   "entities": [
+      "{src,.}/entity/**/*.{ts,js}"
+   ],
+   "migrations": [
+      "{src,.}/migration/**/*.{ts,js}"
+   ],
+   "subscribers": [
+      "{src,.}/subscriber/**/*.{ts,js}"
+   ],
+   "cli": {
+      "entitiesDir": "src/entity",
+      "migrationsDir": "src/migration",
+      "subscribersDir": "src/subscriber"
+   }
+}

@@ -1,0 +1,110 @@
+[
+	{
+		"RoleId": "1",
+		"Rolename": "Super Admin",
+		"menus": [
+			{
+				"path": "",
+				"title": "Dashboard",
+				"icon": "ft-airplay",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/file",
+				"title": "OVC File Upload",
+				"icon": "ft-file",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/ovcbeneficiary",
+				"title": "OVC Beneficiary",
+				"icon": "ft-file",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/users",
+				"title": "Users",
+				"icon": "ft-users",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			}
+		]
+	},
+	{
+		"RoleId": "2",
+		"Rolename": "Admin",
+		"menus": [
+			{
+				"path": "",
+				"title": "Dashboard",
+				"icon": "ft-airplay",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/file",
+				"title": "OVC File Upload",
+				"icon": "ft-file",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/ovcbeneficiary",
+				"title": "OVC Beneficiary",
+				"icon": "ft-file",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			},
+			{
+				"path": "/users",
+				"title": "Users",
+				"icon": "ft-users",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			}
+		]
+	},
+	{
+		"RoleId": "3",
+		"Rolename": "District User",
+		"menus": [
+			{
+				"path": "/file",
+				"title": "OVC File Upload",
+				"icon": "ft-file",
+				"class": "",
+				"badge": "",
+				"badgeClass": "",
+				"isExternalLink": false,
+				"submenu": []
+			}
+		]
+	}
+]

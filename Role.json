@@ -1,0 +1,7 @@
+[
+    { "Id": 1,"RoleName":"Super Admin"},
+    { "Id": 2,"RoleName":"Admin"},
+    { "Id": 3 ,"RoleName":"District User"},
+    { "Id": 4 ,"RoleName":"Guest User"},
+    { "Id": 5 ,"RoleName":"College PO"}
+]
